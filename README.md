@@ -28,8 +28,9 @@ A password-protected desktop file vault built in Java Swing with AES-256 encrypt
 ## 🛠 Tech Stack
 - Java Swing
 - AES-256 / CBC Encryption
+- - SHA-256 Password Hashing
+- Apache NetBeans IDE
 
 - ## Author
 - Rubana Gilal (Software engineering student at MUET szab campus)
-- SHA-256 Password Hashing
-- Apache NetBeans IDE
+
