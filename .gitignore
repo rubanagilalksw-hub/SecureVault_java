@@ -1,1 +1,10 @@
+# Compiled files
+/build/
+/dist/
 
+# Personal vault data - PRIVATE!
+data.svault
+data.svault.key
+
+# NetBeans private settings
+/nbproject/private/
