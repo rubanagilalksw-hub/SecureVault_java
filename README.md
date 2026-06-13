@@ -1,4 +1,4 @@
-<img width="788" height="505" alt="image" src="https://github.com/user-attachments/assets/f852c969-be12-4ba7-bfad-8ec9e5f6b41e" /># SecureVault_java
+SecureVault_java
 A password-protected desktop file vault built in Java Swing with AES-256 encryption. Store, hide and manage your files securely.
 
 ## 📸 Screenshots
